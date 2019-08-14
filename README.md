@@ -1,7 +1,6 @@
 Meu primeiro sistema no GIT- meu primeiro sitemas foi alterado
 
-alterar o que quiser
-
+alterar o que quiser 
 MASTER
 
 
@@ -9,6 +8,7 @@ MASTER
 4ª modificação feita no master para testar alterações
 
 
-asdfffffffffffffffffffffffffffffffffffffffffffffff
 
-asdfffffffffffffffffffffffffffffffffffffffffffffffffffff
+
+
+eu acrescentei estas linha
