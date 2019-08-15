@@ -5,10 +5,6 @@ MASTER
 
 
 
-4ª modificação feita no master para testar alterações
-
-
-
-
-
-eu acrescentei estas linha
+meu primeiro sistema no git externo 
+alterdado README as 07:38 no meu computador
+estas alterações formam feitas no computador casa
